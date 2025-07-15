@@ -2,3 +2,6 @@ Fixing the vi editor by installing the vim editor.
 No editing with vi.
 
 Now the vi editor is working correctly :-)
+
+Last words.
+The vi editor was the first editor what I used in my work.
