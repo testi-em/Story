@@ -1,7 +1,8 @@
 
 Creating the chapter4 is a bit tricky but we have to try!
 
-Changing it in branch story3.
-  - This was a mistake. I was updating it in the main branch.
+Now I am editing this in main branch at 11:57 Jul15, 2025.
 
-New change at 11:57 Jul15, 2025.
+Now I am editing this in story3 branch at 11:53 Jul 15, 2025
+
+Merging it at 12:40 Jul 15, 2025.
