@@ -1,5 +1,4 @@
-B
+Fixing the vi editor by installing the vim editor.
 No editing with vi.
-C
-C
-Something is 
+
+Now the vi editor is working correctly :-)
