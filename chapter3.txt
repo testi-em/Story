@@ -5,3 +5,5 @@ Now the vi editor is working correctly :-)
 
 Last words.
 The vi editor was the first editor what I used in my work.
+
+New words1.
